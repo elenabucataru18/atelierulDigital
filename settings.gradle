@@ -1,0 +1,2 @@
+include ':atelierulDigital'
+rootProject.name='HelloWord'
